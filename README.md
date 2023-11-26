@@ -14,6 +14,6 @@ The rest are files we uploaded so that only one person had to run the code to ob
 ## Team members
 * Damian Zeller 2118831, damianzeller@gmx.ch
 * SudenazBaysağ , 2117246 subaysag@gmail.com
-* Andrei 
+* Andrei Dubkov, 	dubkov.1785837@studenti.uniroma1.it
 * Laura López 2125723. laura.lopez@alumni.esci.upf.edu
 
