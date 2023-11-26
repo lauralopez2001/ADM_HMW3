@@ -10,8 +10,8 @@ https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_3
 The rest are files we uploaded so that only one person had to run the code to obtain the dataframes, folders...
 
 ## Team members
-Damian Zeller 2118831, damianzeller@gmx.ch
-Sudenaz, subaysag@gmail.com
-Andrei 
-Laura López, 2125723. laura.lopez@alumni.esci.upf.edu
+* Damian Zeller 2118831, damianzeller@gmx.ch
+* Sudenaz, subaysag@gmail.com
+* Andrei 
+* Laura López, 2125723. laura.lopez@alumni.esci.upf.edu
 
