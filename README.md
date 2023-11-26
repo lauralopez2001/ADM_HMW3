@@ -6,6 +6,7 @@ https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_3
 * `main.ipynb`: Main code cotaining the solutions of the exercises
 * `CommandLine.sh` : Code for the comandline question
 * `terminal.PNG` : terminal output of the command line question
+  
 The rest are files we uploaded so that only one person had to run the code to obtain the dataframes, folders...
 
 ## Team members
